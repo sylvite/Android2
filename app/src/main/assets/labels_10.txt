@@ -1,0 +1,10 @@
+Poison_Sumac
+Virginia_Creeper
+Poison_Ivy
+Boxelder
+Hog_Peanut
+Raspberry
+Strawberry
+Poison_Oak
+Fragrant_Sumac
+Other
